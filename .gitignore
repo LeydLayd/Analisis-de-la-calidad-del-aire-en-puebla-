@@ -1,0 +1,29 @@
+# Archivos del sistema Windows
+Thumbs.db
+Desktop.ini
+
+# Papelera de reciclaje en Git Bash
+$RECYCLE.BIN/
+
+# Configuración de usuario
+*.bak
+*.log
+
+# Archivos ocultos de configuración
+.DS_Store
+
+# Virtual env y caché
+venv/
+__pycache__/
+*.pyc
+.env
+
+#Carpetas
+AguaSanta/
+Atlixco/
+BINE/
+Las ninfas/
+San martin
+Tehuacan/
+UTP/
+velodromo/
