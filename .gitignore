@@ -27,8 +27,12 @@ San martin
 Tehuacan/
 UTP/
 velodromo/
+2025/
 
+contaminantes.csv
 contaminantes_prueba.csv
 min_web.py
 p2.py
 pb.py
+prueba.py
+*.pdf
